@@ -4,6 +4,14 @@ This repository is a re-implementation of "Real-world Anomaly Detection in Surve
 
 Ours full code available at [CODE](https://drive.google.com/file/d/1xYsBiCSmXjE0BwoiH_Bcm4AWaA1pESHF/view?usp=sharing)
 
+## Visualization
+
+<table>
+  <tr>
+    <td><img alt="" src="./Burglary.gif" /></td> <td><img alt="" src="./Burglary001_x264_result.png" height="280" width="400" />
+  <tr>
+</table>
+
 ## Datasets
 
 Download following data [link](https://drive.google.com/file/d/18nlV4YjPM93o-SdnPQrvauMN_v-oizmZ/view?usp=sharing) and unzip under your $DATA_ROOT_DIR.
@@ -36,12 +44,6 @@ python main.py
 | [RTFM](https://arxiv.org/pdf/2101.10030.pdf) (I3D RGB) | UCF-Crimes | 84.03 |
 | Ours Re-implementation (I3D two stream) | UCF-Crimes | 84.45 |
 
-## Visualization
 
-<table>
-  <tr>
-    <td><img alt="" src="./sam.gif" /></td> <td><img alt="" src="./result.png" height="280" width="400" />
-  <tr>
-</table>
 
 
